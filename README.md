@@ -5,16 +5,14 @@ http://www.nyiso.com/public/markets_operations/market_data/pricing_data/index.js
 
 # Index pages
 
-## Realtime market LBMP Generator
+## Realtime Market LBMP Generator
 http://mis.nyiso.com/public/P-2Alist.htm
 
-## Realtime market LBMP Zonal
+## Realtime Market LBMP Zonal
 http://mis.nyiso.com/public/P-24Alist.htm
-
-## Day ahead market LBMP zonal
-http://mis.nyiso.com/public/P-2Alist.htm
 
 ## Day Ahead Market LBMP Generator
 http://mis.nyiso.com/public/P-24Blist.htm
 
-
+## Day ahead Market LBMP Zonal
+http://mis.nyiso.com/public/P-2Alist.htm
