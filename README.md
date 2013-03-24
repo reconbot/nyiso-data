@@ -15,6 +15,6 @@ http://mis.nyiso.com/public/P-24Alist.htm
 http://mis.nyiso.com/public/P-2Alist.htm
 
 ## Day Ahead Market LBMP Generator
-http://mis.nyiso.com/public/P-2Blist.htm
+http://mis.nyiso.com/public/P-24Blist.htm
 
 
