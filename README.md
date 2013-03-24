@@ -14,5 +14,5 @@ http://mis.nyiso.com/public/P-24Alist.htm
 ## Day Ahead Market LBMP Generator
 http://mis.nyiso.com/public/P-24Blist.htm
 
-## Day ahead Market LBMP Zonal
+## Day Ahead Market LBMP Zonal
 http://mis.nyiso.com/public/P-2Alist.htm
