@@ -2,7 +2,7 @@
   "name": "nyiso-data",
   "version": "0.0.1",
   "description": "downloads the nyiso data",
-  "main": "index.js",
+  "main": "nyiso-data.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +13,8 @@
   "author": "reconbot",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "2ce0e17dbc33c3a31984ed243055dc08df95201f"
+  "gitHead": "2ce0e17dbc33c3a31984ed243055dc08df95201f",
+  "dependencies": {
+    "request": "~2.16.6"
+  }
 }
