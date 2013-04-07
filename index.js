@@ -9,14 +9,15 @@ var index_map = {
 
 var index_downloader = new nyiso.IndexDownloader();
 var index_parser = new nyiso.IndexParser();
-// var file_downloader = new nyiso.FileDownloader();
+var file_downloader = new nyiso.FileDownloader();
+
 // var file_parser = new nyiso.FileParser();
 
 // index_downloader.pipe(index_parser);
 // index_parser.pipe(file_downloader);
 
-index_downloader.write(index_map);
+index_downloader.pipe(index_parser);
+index_parser.pipe(file_downloader);
 
-a = index_downloader.read();
-index_parser.write(a);
-b = index_parser.read();
+index_downloader.write(index_map);
+// file_downloader.read();
