@@ -1,0 +1,42 @@
+From page 25 of the gold book
+http://www.nyiso.com/public/webdocs/markets_operations/services/planning/Documents_and_Resources/Planning_Data_and_Reference_Docs/Data_and_Reference_Docs/2013_GoldBook_Draft_Final.pdf
+
+FUEL TYPES
+BAT - Battery
+BIT - Bituminous Coal
+BUT - Butane
+COL - Liquefied Coal
+FO2 - No. 2 Fuel Oil
+FO4 - No. 4 Fuel Oil
+FO6 - No. 6 Fuel Oil
+FW - Fly Wheel
+JF - Jet Fuel
+KER - Kerosene
+MTE - Methane (Bio Gas)
+NG - Natural Gas
+OT - Other (Describe In Footnote)
+REF - Refuse (Solid Waste)
+SUN - Sunlight
+UR - Uranium
+WAT - Water
+WD - Wood and/or Wood Waste
+WND - Wind
+
+UNIT TYPES
+CC - Combined Cycle
+CG - Cogeneration
+CT - Combustion Turbine Portion (CC)
+CW - Waste Heat Only (CC)
+ES - Energy Storage
+FC - Fuel Cell
+GT - Combustion Turbine
+HY - Conventional Hydro
+IC - Internal Combustion
+IG - Integrated Coal Gasification (CC)
+JE - Jet Engine
+NB - Steam (BWR Nuclear)
+NP - Steam (PWR Nuclear)
+PS - Pumped Storage Hydro
+PV - Photovoltaic
+ST - Steam Turbine (Fossil)
+WT - Wind Turbine
