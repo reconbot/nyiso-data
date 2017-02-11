@@ -1,5 +1,7 @@
 # NYISO-DATA
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/nyiso-data.svg)](https://greenkeeper.io/)
+
 # Explanation of market's financial_model
 http://www.westgov.org/wieb/meetings/crepcsprg2002/briefing%20materials/financial_model.ppt
 
