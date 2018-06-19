@@ -4,7 +4,9 @@
   "description": "downloads the nyiso data",
   "main": "nyiso-data.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -16,6 +18,8 @@
   "gitHead": "2ce0e17dbc33c3a31984ed243055dc08df95201f",
   "dependencies": {
     "request": "~2.16.6",
-    "apricot": "0.0.6"
-  }
+    "apricot": "0.0.6",
+    "snyk": "^1.83.0"
+  },
+  "snyk": true
 }
