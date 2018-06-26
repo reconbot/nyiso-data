@@ -15,7 +15,7 @@
   "readmeFilename": "README.md",
   "gitHead": "2ce0e17dbc33c3a31984ed243055dc08df95201f",
   "dependencies": {
-    "request": "~2.16.6",
+    "request": "~2.50.0",
     "apricot": "0.0.6"
   }
 }
